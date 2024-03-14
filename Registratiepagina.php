@@ -9,7 +9,7 @@
 <body>
     <h1> Registratie formulier </h1> 
 
-    <form class="formulier" action="" method="post"> 
+    <form class="formulier" action="Databse/Registratie.php" method="post"> 
         <label for="voornaam">Voornaam</label>
         <input type="text" id="voornaam" name="voornaam" required>
 
