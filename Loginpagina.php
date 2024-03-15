@@ -5,7 +5,7 @@
     <title>Inloggen</title>
 </head>
 <body>
-    <form class="" method="post">
+    <form class="" action="Database/Inlog.php"method="post">
         <label for="gebruikersnaam">Gebruikersnaam</label>
         <input type="text" id="gebruikersnaam" name="gebruikersnaam" required>
 
