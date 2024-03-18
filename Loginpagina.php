@@ -17,7 +17,7 @@
 </nav> 
 
    <h1> Log in formulier </h1> 
-    <form class="formulier" method="post">
+    <form class="formulier" action="Database/Inlog.php" method="post">
         <label for="gebruikersnaam">Gebruikersnaam</label>
         <input type="text" id="gebruikersnaam" name="gebruikersnaam" required>
 
